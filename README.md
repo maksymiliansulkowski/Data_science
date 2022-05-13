@@ -1,4 +1,4 @@
 # Machine_Learning
 
-Algo trading project
+Algo options trading project
 https://www.quantconnect.com/project/11701841
